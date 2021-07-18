@@ -53,9 +53,15 @@ RolX [1], RIDεRs [2], GraphWave [3], SEGK [4], struc2vec [5], struc2gauss [6], 
 [5] L. F. Ribeiro, P. H. Saverese, and D. R. Figueiredo, “struc2vec: Learning node representations from structural identity,” in Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2017, pp. 385–394.
 
 [6] Y. Pei, X. Du, J. Zhang, G. Fletcher, and M. Pechenizkiy, “struc2gauss: Structural role preserving network embedding viagaussian embedding,” Data Mining and Knowledge Discovery, vol. 34, no. 4, pp. 1072–1103, 2020.
+
 [7] N. K. Ahmed, R. A. Rossi, J. B. Lee, T. L. Willke, R. Zhou, X. Kong, and H. Eldardiry, “Role-based graph embeddings,” IEEE Transactions on Knowledge and Data Engineering, pp. 1–1, 2020. 
+
 [8] D. Jin, M. Heimann, R. A. Rossi, and D. Koutra, “Node2bits: Compact time-and attribute-aware node representations for user stitching,” in Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2019, pp. 483–506. 
+
 [9] K. Tu, P. Cui, X. Wang, P. S. Yu, and W. Zhu, “Deep recursive network embedding with regular equivalence,” in Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2018, pp. 2357–2366.
+
 [10] Y. Jin, G. Song, and C. Shi, “Gralsp: Graph neural networks with local structural patterns,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 04, 2020, pp. 4361–4368.
+
 [11] X. Guo, W. Zhang, W. Wang, Y. Yu, Y. Wang, and P. Jiao, “Roleoriented graph auto-encoder guided by structural information,” in International Conference on Database Systems for Advanced Applications, 2020, pp. 466–481.
+
 [12] W. Zhang, X. Guo, W. Wang, Q. Tian, L. Pan, and P. Jiao, “Rolebased network embedding via structural features reconstruction with degree-regularized constraint,” Knowledge-Based Systems, p.106872, 2021.

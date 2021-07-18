@@ -1,0 +1,8 @@
+numpy==1.9.0
+scipy==0.14.0
+pymf==0.1.9
+cvxopt==1.1.7
+networkx==1.9
+cvxpy==0.2.17
+nimfa==1.2.1
+scikit-learn==0.16

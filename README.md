@@ -6,7 +6,8 @@
  
 # A Survey on Role-Oriented Network Embedding
 ## Models 
-RolX、RIDεRs、GraphWave、SEGK、struc2vec、struc2gauss、Role2vec、NODE2BITS、DRNE、GraLSP、GAS、RESD
+RolX: K. Henderson, B. Gallagher, T. Eliassi-Rad, H. Tong, S. Basu, L. Akoglu, D. Koutra, C. Faloutsos, and L. Li, “Rolx: structural role extraction & mining in large graphs,” in Proceedings of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2012, pp. 1231–1239.
+RIDεRs、GraphWave、SEGK、struc2vec、struc2gauss、Role2vec、NODE2BITS、DRNE、GraLSP、GAS、RESD
 
 ## Dataset
 ### Synthetic datasets
